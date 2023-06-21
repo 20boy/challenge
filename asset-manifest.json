@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/challenge/static/css/main.8ae5bd31.css",
+    "main.js": "/challenge/static/js/main.bfc35122.js",
+    "static/media/Second.ttf": "/challenge/static/media/Second.9858481021df55a31477.ttf",
+    "static/media/dev-ed-wave.png": "/challenge/static/media/dev-ed-wave.96fe79664ed9e871bb6f.png",
+    "static/media/Burtons.otf": "/challenge/static/media/Burtons.c46a2405716f236c4a9a.otf",
+    "static/media/high-performance.png": "/challenge/static/media/high-performance.096913c724dae4df2d46.png",
+    "static/media/Koyejo 's Resume-hackerresume.pdf": "/challenge/static/media/Koyejo 's Resume-hackerresume.05af39fd15bd85d61943.pdf",
+    "static/media/profits.png": "/challenge/static/media/profits.677fc77eec1e3021786f.png",
+    "static/media/shopping-cart.png": "/challenge/static/media/shopping-cart.e9e29d5e11f67834838b.png",
+    "index.html": "/challenge/index.html",
+    "main.8ae5bd31.css.map": "/challenge/static/css/main.8ae5bd31.css.map",
+    "main.bfc35122.js.map": "/challenge/static/js/main.bfc35122.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ae5bd31.css",
+    "static/js/main.bfc35122.js"
+  ]
+}
